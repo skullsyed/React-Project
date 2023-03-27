@@ -47,6 +47,7 @@ function Movie(){
       <h2>{movie.name}</h2>
       <p>{movie.rating}</p>
       <p>{movie.summary}</p>
+      <h1>Helo</h1>
 
     </div>
   )
